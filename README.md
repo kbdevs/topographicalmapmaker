@@ -3,4 +3,4 @@ a program to make contour/topographical maps without wasting time in photoshop a
 
 
 ### TODO:
-- make the perlin function way faster since it takes 10 seconds on my laptop
+- ~~make the perlin function way faster since it takes 10 seconds on my laptop~~
