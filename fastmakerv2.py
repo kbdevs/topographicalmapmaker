@@ -109,7 +109,7 @@ if __name__ == "__main__":
     # Image settings
     WIDTH = 3840
     HEIGHT = 2160
-    OVERLAY = True
+    OVERLAY = False
     AUTO_SCALE = True
     SCALE = 120
 
@@ -122,8 +122,10 @@ if __name__ == "__main__":
         'contrast': 2.0,     # Inner lines amount 
         'blur_radius': 15,   # Shape simplicity/roundness
         'levels': 5,         # Posterize level
-        'background_color': "#2B2231",  # Dark purple
-        'line_color': "#FFB0E4",        # Light purple
+        # 'background_color': "#2B2231",  # Dark purple
+        # 'line_color': "#FFB0E4",        # Light purple
+        'background_color': "#1A0D21",  # Dark purple
+        'line_color': "#7B469A",        # Light purple
         'edge_smoothing': 1.0           # Edge smoothing amount
     }
     
